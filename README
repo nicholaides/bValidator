@@ -1,0 +1,3 @@
+This is a fork of bValidator. Differences:
+
+Lets you provide a `beforeValidate` callback that gets executed before the form is validated. This is useful if your form uses default "hint" text.
